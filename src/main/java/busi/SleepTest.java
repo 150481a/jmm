@@ -7,7 +7,7 @@ package busi;
  * @create: 2023/6/19 10:26
  * @Version 1.0
  */
-public class SleepTest {
+public class SleepTest    {
 
     public static void main(String[] args) {
         byte[] lock = new byte[0];
@@ -34,3 +34,4 @@ public class SleepTest {
         }).start();
     }
 }
+
